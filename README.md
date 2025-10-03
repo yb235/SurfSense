@@ -121,6 +121,20 @@ Open source and easy to deploy locally.
 
 
 
+## 📚 Documentation
+
+**New to SurfSense?** Start with our comprehensive documentation:
+
+- **[📖 Getting Started Guide](docs/GETTING_STARTED.md)** - Perfect for first-time users! Learn the basics, core concepts, and step-by-step tutorials
+- **[🏗️ Architecture Overview](docs/ARCHITECTURE.md)** - Understand the system design, technology stack, and how components work together
+- **[🔄 Workflows & Data Flow](docs/WORKFLOWS.md)** - See how data flows through the system with detailed diagrams
+- **[🔌 API Reference](docs/API_REFERENCE.md)** - Complete API documentation with code examples
+- **[⚙️ Backend Documentation](docs/backend/README.md)** - Deep dive into the FastAPI backend
+- **[🎨 Frontend Documentation](docs/frontend/README.md)** - Next.js frontend architecture and components
+- **[🔧 Browser Extension](docs/extension/README.md)** - Extension development and usage guide
+
+**All documentation** can be found in the **[`/docs`](docs/)** directory.
+
 ## FEATURE REQUESTS AND FUTURE
 
 
